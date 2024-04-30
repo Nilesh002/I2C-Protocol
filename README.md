@@ -39,7 +39,8 @@ I2C
 
 
 ## Synthesized Schematic Image:
-![Synthesized Schematic Image](synthesized_schematic.png)
+![I2C_Sythesis](https://github.com/Nilesh002/I2C-Protocol/assets/105161049/acf9509c-93cc-488a-953c-34a481f1cf1d)
+
 
 
 
