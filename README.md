@@ -39,10 +39,11 @@ I2C provides a convenient and standardized method for inter-device communication
 ## Repository Structure:
 
 
-```i2c_ip_controller/
+```
+I2C
 │
 ├── i2c_ip.v
 ├── i2c_master.v
 ├── i2c_controller.v
-├── M24AA64.v (optional)
-└── README.md```
+└── README.md
+```
