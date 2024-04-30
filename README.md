@@ -9,6 +9,35 @@ This repository contains Verilog code for an I2C (Inter-Integrated Circuit) IP c
 2. **i2c_master.v**: Verilog module for the I2C master, which handles the transmission and reception of data on the I2C bus.
 3. **i2c_controller.v**: Verilog module for the I2C controller, which interfaces between the processor and the I2C master.
 
+
+
+## Repository Structure:
+
+
+```
+I2C
+│
+├── i2c_ip.v
+├── i2c_master.v
+├── i2c_controller.v
+└── README.md
+```
+
+
+## Usage Instructions:
+1. Clone the repository to your local machine.
+2. Open the project in Xilinx Vivado.
+3. Modify the code as needed for your specific application.
+4. Simulate or synthesize the design in Vivado.
+5. Program your FPGA with the generated bitstream to implement the I2C controller.
+
+
+
+
+
+
+
+
 ## Additional Information about I2C:
 ### What is I2C?
 I2C (Inter-Integrated Circuit) is a synchronous, multi-master, multi-slave, packet-switched, single-ended, serial communication bus invented by Philips Semiconductor (now NXP Semiconductors).
@@ -29,21 +58,6 @@ I2C is commonly used in various embedded systems for communication between micro
 ### Why I2C is needed?
 I2C provides a convenient and standardized method for inter-device communication in embedded systems. It simplifies hardware design, reduces wiring complexity, and allows multiple devices to communicate over the same bus, thereby saving I/O pins on the microcontroller.
 
-## Usage Instructions:
-1. Clone the repository to your local machine.
-2. Open the project in Xilinx Vivado.
-3. Modify the code as needed for your specific application.
-4. Simulate or synthesize the design in Vivado.
-5. Program your FPGA with the generated bitstream to implement the I2C controller.
-
-## Repository Structure:
 
 
-```
-I2C
-│
-├── i2c_ip.v
-├── i2c_master.v
-├── i2c_controller.v
-└── README.md
-```
+
