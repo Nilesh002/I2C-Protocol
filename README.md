@@ -15,11 +15,11 @@ This repository contains Verilog code for an I2C (Inter-Integrated Circuit) IP c
 
 
 ```
-I2C
+RTL
 │
-├── i2c_ip.v
-├── i2c_master.v
-├── i2c_controller.v
+├── I2C_IP.v
+├── I2C_Master.v
+├── I2C_Controller.v
 └── README.md
 ```
 
