@@ -19,8 +19,7 @@ RTL
 │
 ├── I2C_IP.v
 ├── I2C_Master.v
-├── I2C_Controller.v
-└── README.md
+└── I2C_Controller.v
 ```
 
 
