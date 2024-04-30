@@ -58,7 +58,7 @@ I2C uses two bidirectional lines: SDA (data line) and SCL (clock line). Multiple
 - Support for multiple devices on the same bus
 - Bidirectional communication
 - Synchronous data transfer
-- Low-speed communication (typically up to 400 kHz for standard mode and 3.4 MHz for high-speed mode)
+- Low-speed communication (typically up to 100 kHz for standard mode and 5 MHz for Ultra-fast mode)
 
 ### Applications of I2C:
 I2C is commonly used in various embedded systems for communication between microcontrollers and peripheral devices such as sensors, EEPROMs, LCD displays, and more.
