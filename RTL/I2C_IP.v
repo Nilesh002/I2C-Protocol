@@ -75,7 +75,7 @@ dout_read,         // to i2c master
 rdata,      // to processor
 I2CMDR,         // to i2c master  MODE
 I2CSAR,         // to i2c master  SLAVE ADDR
-I2COAR,         // to i2c master  OWN ADRESS
+I2COAR,         // to i2c master  OWN ADDRESS
 I2CCNT,         // to i2c master  DATA COUNT
 I2CDXR,         // to i2c master  DATA IN / DATA TRANSFER
 I2CPSC,         // to i2c master  PRESCALAR 
@@ -102,15 +102,15 @@ i2c_scl
 );
 
 
-M24AA64 i2c_slave(
-    .A0(A0), 
-    .A1(A1), 
-    .A2(A2),
-    .WP(WP),
-    .SDA(i2c_sda), 
-    .SCL(i2c_scl), 
-    .RESET(~rstn)
-    );
+// M24AA64 i2c_slave(
+//     .A0(A0), 
+//     .A1(A1), 
+//     .A2(A2),
+//     .WP(WP),
+//     .SDA(i2c_sda), 
+//     .SCL(i2c_scl), 
+//     .RESET(~rstn)
+//     );
 
 
 
