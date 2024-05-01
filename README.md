@@ -37,7 +37,7 @@ RTL
 ![I2C Simulation](https://github.com/Nilesh002/I2C-Protocol/assets/105161049/c178848e-21ad-4697-9e77-4db739d703de)
 
 
-## Synthesized Schematic Image:
+## Synthesized Design:
 ![I2C_Sythesis](https://github.com/Nilesh002/I2C-Protocol/assets/105161049/acf9509c-93cc-488a-953c-34a481f1cf1d)
 
 
