@@ -38,7 +38,7 @@ RTL
 
 
 ## Synthesized Design:
-![I2C_Sythesis](https://github.com/Nilesh002/I2C-Protocol/assets/105161049/acf9509c-93cc-488a-953c-34a481f1cf1d)
+![sythesized_i2c_schematic](https://github.com/Nilesh002/I2C-Protocol/assets/105161049/c67ed2ba-a2c8-4170-9cc7-1c9558ed780d)
 
 
 
